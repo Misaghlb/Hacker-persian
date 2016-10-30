@@ -1,3 +1,5 @@
+[Hacker](https://github.com/CodeDaraW/Hacker) Theme for Hexo with persian language support
+
 # Hacker | [中文版文档](/README_zh-CN.md)
 __Hacker is a simple style of theme for blog, hoping you focus on writing more rather than the typesetting.__  
 
